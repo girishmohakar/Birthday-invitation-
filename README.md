@@ -22,7 +22,7 @@ A fun and simple dark-themed birthday invitation built with basic HTML and CSS. 
 
 ##  Screenshot
 
-![Birthday Invitation Screenshot](screenshot.png)
+![Birthday Invitation Screenshot](Screenshot_2025-06-21-17-48-18-182_com.qamar.ide.web.jpg)
 
 ---
 
