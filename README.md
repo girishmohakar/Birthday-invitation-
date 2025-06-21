@@ -17,6 +17,7 @@ A fun and simple dark-themed birthday invitation built with basic HTML and CSS. 
 - [🚀 How to Use](#how-to-use)
 - [📬 Invitation Details](#invitation-details)
 - [📜 License](#license)
+- [Contact me](#Connect-With-Me)
 
 ---
 
@@ -89,11 +90,12 @@ Email or messaging apps
 
 🎈 Note: All are welcome!
 
-
-
 ---
 
-## License
+##  Connect With Me
 
-This project is open-source and free to use.
-Feel free to modify and share it with your own birthday details. 🎁
+🔗 [GitHub](https://github.com/dashboard)
+
+🔗 [linkden](https://www.linkedin.com/in/girish-mohakar-96b9ab257?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+
+🔗 e-mail: girishmohakarentc@gmail.com
