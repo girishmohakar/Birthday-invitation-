@@ -53,9 +53,9 @@ birthday-invitation/ ├── index.html ├── README.md └── screensh
 ##  How to Use
 
 1. **Download or Clone this repository**
-   ```bash
-   git clone https://github.com/yourusername/birthday-invitation.git
-   ```
+```bash
+https://github.com/girishmohakar/Birthday-invitation-
+```
 
 2. Open index.html in your browser.
 
